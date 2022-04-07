@@ -1,1 +1,1 @@
-# Crop Yield Prediction Using Machine Learning
+# MINI PROJECT
